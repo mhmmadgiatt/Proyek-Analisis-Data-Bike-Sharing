@@ -22,7 +22,7 @@ st.set_page_config(
 col1, col2 = st.columns([1, 2])
 
 # Menambahkan Gambar di kolom pertama
-col1.image("https://img3.stockfresh.com/files/a/aiel/m/97/2553267_stock-photo-bike-race.jpg", width=400)
+col1.image("https://img3.stockfresh.com/files/a/aiel/m/97/2553267_stock-photo-bike-race.jpg", width=300)
 
 # Menambahkan teks di kolom kedua
 col2.write("Let's explore the Bike Sharing dataset!!!")

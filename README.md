@@ -31,7 +31,7 @@ Proyek ini dimaksudkan untuk melakukan analisis terhadap data dalam Bike Sharing
 - **url.txt**: Berisi link ke deployment Deployment pada  **Streamlit** <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo"></img>
 
 ## Preview Dashboard
-![Dashboard Streamlit Preview](https://raw.githubusercontent.com/mhmmadgiatt/Proyek-analisis-data-bike-sharing/main/preview.png)
+![Dashboard Streamlit Preview](https://raw.githubusercontent.com/mhmmadgiatt/Proyek-analisis-data-bike-sharing/main/preview.jpg)
 
 ## Instalasi
 
